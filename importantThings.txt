@@ -1,0 +1,7 @@
+Ctrl + Shift + M تب پرابلم وا میکنه
+
+format on save اینو تو وی اس کد سرچ میکنیم که وقتی سیو میکنی فایلو فرمت کنه کدارو 
+
+Ctrl + Alt + N میاد افزونه کد رانر رو اجرا میکنه
+
+پیاده سازی های پایتون : cpython(C) - jython(java) - ironPython(C#) - pypy(python in python)
