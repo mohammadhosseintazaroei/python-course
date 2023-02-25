@@ -1,1 +1,2 @@
 the first day =  52:22
+the second day =  01:30:44
