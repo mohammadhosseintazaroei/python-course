@@ -1,0 +1,21 @@
+course = "python course"
+upper_course = course.upper()
+course_witih_spaces= "  python course      "
+
+print(upper_course)
+print(upper_course.lower())
+print(course.title())
+print(course_witih_spaces)
+print(course_witih_spaces.strip())
+print(course_witih_spaces.rstrip())
+print(course_witih_spaces.lstrip())
+print(course.find("p"))
+print(course.find("ou"))
+print(course.find("z"))
+print(course.replace("p","i"))
+print(course.replace("o","mm"))
+print(course.replace("ou","dd"))
+print("py" in course)
+print("z" in course)
+print("py" not in course)
+print("z" not in course)
