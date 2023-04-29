@@ -1,4 +1,4 @@
-the first day =  52:22
+the first day =  52:22 
 the second day =  01:30:44
 the third day =  02:11:03
 the forth day =  02:17:02
@@ -8,3 +8,4 @@ the seventh day =  03:45:40
 the eighth day =  04:02:49
 the ninth day =  04:18:06
 the tenth day =  04:34:39
+the eleventh day = 04:44:30
