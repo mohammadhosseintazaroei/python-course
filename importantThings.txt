@@ -107,3 +107,11 @@ Ctrl + Alt + N میاد افزونه کد رانر رو اجرا میکنه
 برای تعریف کلس اتریبیوت یک متغیر داخل کلس تعریف میکنیم و میتونیم با صدا کردن کلس به اون اتریبیوت دسترسی داشته باشیم ---> classVsInstanceAttributesTwelfthDay.py - line 1, 12, 13
 
 به دو صورت میشه به کلس اتریبیوت دسترسی داشت هم به وصیله ابجگت و هم به وصیله کلسمون ---> classVsInstanceAttributesTwelfthDay.py - line 12, 13
+
+مجیک متد اس تی ار مقدار ریترنیه فانکشن رو کنترل میکنه و با این مجیک متد میتونیم تغییرش بدیم --->  magicMethodTwentyFirstDay.py - line 6
+
+برای فهمیدن مساوی بودن دو ابجکت از مجیک متد ای کیو استفاده میکنیم ---> compareObjectsTwentyFirstDay.py - line 5 
+
+برای مقایسه کوچک یا بزرگ تر بودن مقادیر ابجکد از مجیک متد جی تی استفاده میکنیم ---> compareObjectsTwentyFirstDay.py - line 7
+
+برای جمع ورودی های ابحکت ها از مجیک متد اد استفاده میکنیم ---> computationalOperatorsInClassesTwentyFirstDay.py - line 8, 14
